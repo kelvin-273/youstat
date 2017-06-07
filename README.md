@@ -11,13 +11,13 @@ running. This saves whatever progress has been made to pickle dumps:
 - **explored** is the list of addresses that have already been scraped.
 
 ## Todo
-- [ ] check for dropped request
-- [ ] resend dropped request
-- [ ] load previous saves
-- [ ] module for analysing the stats
+- [ ] Check for dropped request
+- [ ] Resend dropped request
+- [ ] Load previous saves
+- [ ] Module for analysing the stats
 - [ ] NLP module for the title
-- [ ] scrape comments
-- [ ] generalise scraping algorithm
+- [ ] Scrape comments
+- [ ] Generalise scraping algorithm
 
 ## Requirements
 - BeautifulSoup4
